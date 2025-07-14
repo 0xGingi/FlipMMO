@@ -1,5 +1,7 @@
 ## Eternals Online Discord Bot
 
+SUCCESSOR TO ETERNALS ONLINE - ETERNALS REBIRTH - https://github.com/0xGingi/eternals-rebirth
+
 ### Features
 * Player Marketplace (Grand Exchange)
 * Idle Skilling (Fishing...etc)
